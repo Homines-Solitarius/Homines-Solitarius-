@@ -141,8 +141,12 @@ section {
 }
 
 .heading {
-  font-size: 1.5rem;
+  font-size: 2rem;
   color: var(--white-color);
+}
+
+.letters {
+  font-size: 1.75rem;
 }
 
 .alpha {
